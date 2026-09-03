@@ -1,0 +1,15 @@
+Completeness vs Strain Heterogeneity vs Contamination
+Genome Size vs GC Content
+Coding Density vs Genome Size
+GC Content Distribution by Phylum
+Completeness vs Heterogeneity
+N50 / L50 Distribution
+Distribution of NCBI Genome Assembly Levels
+Genome MAG Quality
+Genomes Sequenced Over Time
+Protein Count vs Genome Size
+Isolation Source Categories
+SSU vs LSU Counts
+GTDB Taxonomic Abundance (Genus level)
+Proportion of GTDB Rep / NCBI Type Material
+GTDB Genome Counts by Country
